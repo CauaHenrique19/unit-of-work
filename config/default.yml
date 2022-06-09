@@ -1,0 +1,7 @@
+server:
+  port: 3100
+
+db:
+  type: 'mssql'
+  port: 1433
+  database: 'exemplo-unit-of-work'

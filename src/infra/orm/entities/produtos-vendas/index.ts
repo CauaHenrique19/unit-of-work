@@ -1,0 +1,1 @@
+export * from './produtos-vendas.entity'

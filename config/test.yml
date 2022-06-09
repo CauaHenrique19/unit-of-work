@@ -1,0 +1,7 @@
+db:
+  username: 'sa'
+  password: 'YourStrong@Passw0rd'
+  type: 'mssql'
+  port: 1433
+  database: 'database_test'
+  host: 'localhost'
